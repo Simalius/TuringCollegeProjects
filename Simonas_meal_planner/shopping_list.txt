@@ -1,0 +1,4 @@
+Shopping List: test
+Items:
+ - Eggs: 2.0 
+ - Bacon: 200.0 g

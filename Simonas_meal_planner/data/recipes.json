@@ -1,0 +1,70 @@
+{
+    "Healthy Vegan Red Velvet Brownies": {
+        "ingredients": {
+            "almond extract": {
+                "amount": 0.5,
+                "unit": "tsp"
+            },
+            "apple sauce": {
+                "amount": 4.0,
+                "unit": "tablespoons"
+            },
+            "baking powder": {
+                "amount": 0.75,
+                "unit": "tsp"
+            },
+            "baking soda": {
+                "amount": 0.125,
+                "unit": "tsp"
+            },
+            "beets": {
+                "amount": 0.5,
+                "unit": "cup"
+            },
+            "brown sugar": {
+                "amount": 0.75,
+                "unit": "cup"
+            },
+            "cocoa powder": {
+                "amount": 0.5,
+                "unit": "cup"
+            },
+            "ground flaxseed": {
+                "amount": 0.5,
+                "unit": "cup"
+            },
+            "kidney beans": {
+                "amount": 1.0,
+                "unit": "cup"
+            },
+            "salt": {
+                "amount": 0.125,
+                "unit": "tsp"
+            },
+            "vanilla extract": {
+                "amount": 1.0,
+                "unit": "tsp"
+            }
+        }
+    },
+    "eggs and bacon": {
+        "ingredients": {
+            "eggs": {
+                "amount": 2.0,
+                "unit": ""
+            },
+            "bacon": {
+                "amount": 200.0,
+                "unit": "g"
+            }
+        }
+    },
+    "Test Recipe": {
+        "ingredients": {
+            "ingredient1": {
+                "amount": 2,
+                "unit": "cups"
+            }
+        }
+    }
+}
